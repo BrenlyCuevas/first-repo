@@ -1,4 +1,4 @@
-name = 'Augusto'
+name = 'Maria'
 lastname = 'Cuevas'
 greeting = "Hola" + " " + name + " " + lastname
 print(greeting)
